@@ -7,3 +7,4 @@
 - [PGD (Projected Gradient Descent) Attack](https://github.com/mehrdad3301/JNotes/tree/main/projected_gradient_descent_attack)
 - [Perceptron](https://github.com/mehrdad3301/JNotes/tree/main/perceptron)
 - [BadNets](https://github.com/mehrdad3301/JNotes/tree/main/badnets)
+- [Label-Consistent Backdoor Attacks](https://github.com/mehrdad3301/JNotes/tree/main/label_consistent_backdoor_attack)
