@@ -9,5 +9,6 @@
 - [BadNets](https://github.com/mehrdad3301/JNotes/tree/main/badnets)
 - [Label-Consistent Backdoor Attacks](https://github.com/mehrdad3301/JNotes/tree/main/label_consistent_backdoor_attack)
 - [CLIP Zero-shot Classification](https://github.com/mehrdad3301/JNotes/tree/main/clip_zero_shot_classification)
-- [RNN & LSTM implementation from scratch](https://github.com/mehrdad3301/JNotes/tree/main/rnn_lstm)
+- [RNN & LSTM Implementation from scratch](https://github.com/mehrdad3301/JNotes/tree/main/rnn_lstm)
 - [Sentiment Analysis with LSTM](https://github.com/mehrdad3301/JNotes/tree/main/sentiment_analysis_lstm)
+- [GPT Implementation from scratch](https://github.com/mehrdad3301/JNotes/tree/main/baby_gpt)
