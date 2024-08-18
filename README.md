@@ -15,8 +15,11 @@
 - [GPT Implementation from scratch](https://github.com/mehrdad3301/JNotes/tree/main/baby_gpt)
 - [BERT Sequence Classification](https://github.com/mehrdad3301/JNotes/tree/main/bert_sequence_classification)
 
+### Foundational Models 
+- [CLIP Zero-shot Classification](https://github.com/mehrdad3301/JNotes/tree/main/clip_zero_shot_classification)
+- [DINO Fine-tuning](https://github.com/mehrdad3301/JNotes/tree/main/dino)
+
 ### Misc 
 - [Perceptron](https://github.com/mehrdad3301/JNotes/tree/main/perceptron)
 - [CNN CIFAR10 Classification](https://github.com/mehrdad3301/JNotes/tree/main/cnn_cifar10_classification)
 - [Node Classification for Graphs](https://github.com/mehrdad3301/JNotes/tree/main/node_graph_classification)
-- [CLIP Zero-shot Classification](https://github.com/mehrdad3301/JNotes/tree/main/clip_zero_shot_classification)
