@@ -3,6 +3,7 @@
 ### Generative Models 
 - [Generative Adverserial Neural Networks](https://github.com/mehrdad3301/JNotes/tree/main/vanilla_gan)
 - [Denoising Auto Encoders](https://github.com/mehrdad3301/JNotes/tree/main/denoising_auto_encoders)
+- [Variational Auto Encoders](https://github.com/mehrdad3301/JNotes/tree/main/vae)
 
 ### Adversarial Machine Learning
 - [PGD (Projected Gradient Descent) Attack](https://github.com/mehrdad3301/JNotes/tree/main/projected_gradient_descent_attack)
